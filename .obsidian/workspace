@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "a97326b36868399d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f49eb24ef1cb83db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SNT/14022022.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64d31f5cf7f9691c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7b1911faec9bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6295c55f45a6f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b645091e674b4934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb4580f9cbddd937",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90bab94380da7ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e219fab6dafcef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ab212527572064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SNT/14022022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41d3a77ae6443439",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a373b29e3f31efb8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f49eb24ef1cb83db",
+  "lastOpenFiles": [
+    "SNT/14022022.md",
+    "Day Planners/Day Planner-20220114.md"
+  ]
+}
