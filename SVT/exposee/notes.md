@@ -87,3 +87,38 @@
  - oréole rouge
  - autres 
   - faiblesses musculaires
+------
+## chikungunya
+-----
+-----
+### peux dangereuse
+### proche de la dangue
+### mots de têtes, douleurs musculaires et articulaires
+### peu de morts, 0.4% de mortalitée, peux face aux autres véctorielles
+## se transmet par picure du moustique tigre, rayures noires et blanches
+### propagation :
+- détruire les points d'eau stagnants
+- utiliser des répulsifs
+- dormir sous moustiquaire
+### conclusions
+- pas très dangereux si protégé
+- réduire population moustiques tigres
+### def vecteur :
+- peut transmettre des maladies 
+	- animal-home
+	- home-animal
+	- animal-animal
+### peux de morts en france
+-----
+## PALUDISME - 2
+-----
+-----
+### chifres
+- 420k morts
+- 212M cas
+### premier mort : toutankhamon
+### dans les pays moins développés
+### 2.4 micromètres
+### transmission par la femelle moustique
+### traitements ACT
+### OMS pour lutter *seulement* contre le paludisme
