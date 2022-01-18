@@ -7,14 +7,21 @@
         "id": "f49eb24ef1cb83db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "empty",
+          "state": {}
+        },
+        "group": "8c755ba146793841"
+      },
+      {
+        "id": "f1bf78ad9dd340c3",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
           "state": {
-            "file": "SVT/exposee/notes.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "SVT/document cloud/SVT/5 - La biodiversité et son évolution/Activité 1/Activité 1 - Les échelles de la biodiversité.pdf"
           }
-        }
+        },
+        "group": "8c755ba146793841"
       }
     ],
     "direction": "vertical"
@@ -63,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 417
   },
   "right": {
     "id": "90bab94380da7ec2",
@@ -79,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVT/exposee/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,8 @@
   },
   "active": "f49eb24ef1cb83db",
   "lastOpenFiles": [
+    "SVT/chapitres/biodiversitée/activitée 1.md",
+    "SVT/document cloud/SVT/5 - La biodiversité et son évolution/Activité 1/Activité 1 - Les échelles de la biodiversité.pdf",
     "SVT/exposee/notes.md",
     "SVT/exposee/SIDA/SIDA.md",
     "SVT/exposee/SIDA/SIDA.pdf",
