@@ -56,7 +56,7 @@
 
     - Actuellement, seuls deux autotests VIH sont CE disponibles en pharmacie non remboursés par l'Assurance maladie.
 
-## Les gestes à adopter : (killian)
+## Les gestes à adopter : (thomas)
 - porter un préservatif ou une digue dentaire
 - se faire tester avant, soi et son/sa/ses partenaire(s)
 - si positif, prendre des traitements (antiretroviral therapy (ART))
