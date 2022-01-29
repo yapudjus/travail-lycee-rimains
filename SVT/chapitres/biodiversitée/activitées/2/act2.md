@@ -30,5 +30,23 @@ __*note*__ : dans ce logiciel, 1 couleur = 1 allèle (c’est à dire une versio
     Dans le couple formé par les parents Fugate, on passe à 50% d’individus ayant cet allèle.  
     On a alors une modification de la fréquence allélique due à l’isolement de la population.  
     On peut supposer qu’au fil des génération, l’isolement d’une population conduit à la modification des proportions d’allèles dans une population.
-2. première génération:
-   - ![1](imgs/Screenshot 2022-01-29 at 11-15-46 Dérive génétique.png)
+2. reponse:
+   - 10 individus:
+     - ![1](imgs/Screenshot%202022-01-29%20at%2011-15-46%20Dérive%20génétique.png)
+     - ![2](imgs/Screenshot%202022-01-29%20at%2011-16-44%20Dérive%20génétique.png)
+     - ![3](imgs/Screenshot%202022-01-29%20at%2011-16-31%20Dérive%20génétique.png)
+     - certaines allèles ont disparues, et il ne reste qu'une seul allèle jaune
+   - 50 individus:
+     - ![4](imgs/Screenshot%202022-01-29%20at%2011-25-17%20Dérive%20génétique.png)
+     - ![5](imgs/Screenshot%202022-01-29%20at%2011-25-43%20Dérive%20génétique.png)
+     - ![6](imgs/Screenshot%202022-01-29%20at%2011-25-51%20Dérive%20génétique.png)
+     - les allèles restent stables
+   - 100 individus:
+     - ![7](imgs/Screenshot%202022-01-29%20at%2011-31-13%20Dérive%20génétique.png)
+     - ![8](imgs/Screenshot%202022-01-29%20at%2011-31-44%20Dérive%20génétique.png)
+     - ![9](imgs/Screenshot%202022-01-29%20at%2011-31-55%20Dérive%20génétique.png)
+     - les allèles restent stables
+   - **Conclusion**:
+     - plus le groupe est restraint, plus les allèles en infèrioritée à la première génération seront vouées à disparaitre
+
+## **A retenir** : Dérive génétique : processus par lequel les *fréquences alléliques* changent dans les *petites populations* à cause de biais *aléatoires* d’échantillonnage dans la transmission des allèles d'une génération à l'autre
