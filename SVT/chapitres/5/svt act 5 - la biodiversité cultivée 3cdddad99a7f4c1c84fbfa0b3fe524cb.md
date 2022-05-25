@@ -1,4 +1,4 @@
-((((((((((((((((((((((((((<!-- markdownlint-disable-file MD025 MD007-->
+<!-- markdownlint-disable-file MD025 MD007-->
 
 # svt act 5 - la biodiversité cultivée
 
