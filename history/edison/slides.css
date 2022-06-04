@@ -1,9 +1,14 @@
 ul.slides_container {
     list-style: none;
-    float: left;
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    bottom: 0;
+    left: 0;
     margin: auto 0%;
-    width: max-content;
-    height: max-content;
+    width: 70%;
+    height: 1080px;
+    overflow: scroll;
 }
 
 li.slide_element {
@@ -17,6 +22,6 @@ h1.title {
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
-    font-size: 5em;
+    font-size: 4em;
     margin-top: 5%;
 }
