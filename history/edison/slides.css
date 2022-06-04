@@ -1,19 +1,28 @@
 ul.slides_container {
     list-style: none;
-    position: -webkit-sticky;
-    /* Safari */
-    position: sticky;
-    bottom: 0;
-    left: 0;
-    margin: auto 0%;
+    position: fixed;
+    margin-top: 0%;
+    padding-top: 0%;
+    margin: 0% 0%;
+    padding-left: 0%;
     width: 70%;
-    height: 1080px;
+    min-height: 1080px;
+    max-height: 70%;
     overflow: scroll;
+    top: 13.7363%;
+    left: 33px;
 }
 
 li.slide_element {
-    height: 100%;
+    padding: 0% 0%;
+    height: 1080p;
     width: auto;
+}
+
+.bg_image {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1080px;
 }
 
 h1.title {

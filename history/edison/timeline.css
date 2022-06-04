@@ -39,11 +39,13 @@
     height: 100%;
 }
 
-.timeline-event {
+.timeline-event,
+.timeline-event-enabled {
     position: relative;
 }
 
-.timeline-event:hover .timeline-event-icon {
+.timeline-event:hover .timeline-event-icon,
+.timeline-event-enabled .timeline-event-icon {
     -moz-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
@@ -51,7 +53,8 @@
     background-color: #a83279;
 }
 
-.timeline-event:hover .timeline-event-thumbnail {
+.timeline-event:hover .timeline-event-thumbnail,
+.timeline-event-enabled .timeline-event-thumbnail {
     -moz-box-shadow: inset 40em 0 0 0 #a83279;
     -webkit-box-shadow: inset 40em 0 0 0 #a83279;
     box-shadow: inset 40em 0 0 0 #a83279;
@@ -66,10 +69,12 @@
 }
 
 .timeline-event-copy h3 {
+    font-family: Helvetica;
     font-size: 1.75em;
 }
 
 .timeline-event-copy h4 {
+    font-family: Helvetica;
     font-size: 1.2em;
     margin-bottom: 1.2em;
 }
@@ -97,14 +102,15 @@
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
     background-color: black;
-    outline: 10px solid white;
     display: block;
-    margin: 0.5em 0.5em 0.5em -0.5em;
+    margin: 2em 0.5em 1em -0.5em;
     position: absolute;
     top: 0;
-    left: 2em;
+    left: -0.5em;
     width: 1em;
     height: 1em;
+    overflow: visible;
+    outline: white solid 5px;
 }
 
 .timeline-event-thumbnail {
@@ -112,6 +118,7 @@
     -o-transition: box-shadow 0.5s ease-in 0.1s;
     -webkit-transition: box-shadow 0.5s ease-in;
     -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
     transition: box-shadow 0.5s ease-in 0.1s;
     color: white;
     font-size: 0.75em;
@@ -122,4 +129,9 @@
     display: inline-block;
     margin-bottom: 1.2em;
     padding: 0.25em 1em 0.2em 1em;
+}
+
+#br {
+    height: 1080p;
+    padding-bottom: 1080px;
 }
