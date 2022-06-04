@@ -2,4 +2,8 @@ body {
     padding: none;
     width: 100%;
     height: 100%;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
 }

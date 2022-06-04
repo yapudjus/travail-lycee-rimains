@@ -5,14 +5,6 @@
 
 /* Fonts */
 
-body {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 1em;
-    font-weight: 150;
-    line-height: 1.5;
-    letter-spacing: 0.05em;
-}
-
 
 /* Layout */
 
@@ -84,6 +76,11 @@ body {
 
 .timeline-event-copy strong {
     font-weight: 700;
+}
+
+.timeline-event-copy p {
+    font-weight: 250;
+    font-size: 1.3em;
 }
 
 .timeline-event-copy p:not(.timeline-event-thumbnail) {
