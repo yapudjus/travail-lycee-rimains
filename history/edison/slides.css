@@ -19,6 +19,12 @@ li.slide_element {
     width: auto;
 }
 
+div.bg_image div img {
+    box-shadow: 3px 5px 101px 8px rgba(0, 0, 0, 0.67);
+    -webkit-box-shadow: 3px 5px 101px 8px rgba(0, 0, 0, 0.67);
+    -moz-box-shadow: 3px 5px 101px 8px rgba(0, 0, 0, 0.67);
+}
+
 .bg_image {
     background-repeat: no-repeat;
     background-size: contain;
@@ -121,6 +127,23 @@ h1.title {
 
 #zfdf p {
     font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#sdgb {
+    position: relative;
+    width: fit-content;
+    right: -9.57421%;
+    top: 31.1296%;
+}
+
+#sdgb img {
+    position: relative;
+}
+
+#sdgb p {
+    font-size: 1.1em;
     font-weight: 400;
     text-align: center;
 }
