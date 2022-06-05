@@ -147,3 +147,43 @@ h1.title {
     font-weight: 400;
     text-align: center;
 }
+
+#dsgf {
+    position: relative;
+    width: fit-content;
+    right: -43.3688%;
+    top: -31.481%;
+}
+
+#dsgf p {
+    font-size: 1.1em;
+    font-weight: 400;
+    text-align: center;
+    width: 120%;
+    margin-top: 0%;
+}
+
+#dsgf img {
+    position: relative;
+    width: 120%
+}
+
+#zpfg {
+    position: relative;
+    width: fit-content;
+    top: -100.908%;
+    right: -70.7776%;
+}
+
+#zpfg p {
+    font-size: 1.1em;
+    font-weight: 400;
+    text-align: center;
+    width: 110%;
+    margin-top: 0%;
+}
+
+#zpfg img {
+    position: relative;
+    width: 110%
+}
