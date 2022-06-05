@@ -89,4 +89,38 @@ h1.title {
     margin: 0% 0%;
     font-weight: 400;
     text-align: center;
+    word-wrap: break-word;
+}
+
+#zfdg {
+    position: relative;
+    width: fit-content;
+    right: -32%;
+    top: -1%;
+}
+
+#zfdg p {
+    width: 150%;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#zfdg img {
+    width: 150%;
+    position: relative;
+    margin: 0% 0%;
+}
+
+#zfdf {
+    position: relative;
+    width: fit-content;
+    right: -63%;
+    top: -75%;
+}
+
+#zfdf p {
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
 }
