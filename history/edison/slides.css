@@ -33,4 +33,60 @@ h1.title {
     margin-right: auto;
     font-size: 4em;
     margin-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    /* from https://cssgenerator.org/border-radius-css-generator.html  */
+    border-radius: 0px 0px 16px 16px;
+    -webkit-border-radius: 0px 0px 16px 16px;
+    -moz-border-radius: 0px 0px 16px 16px;
+    /*  from https://cssgenerator.org/box-shadow-css-generator.html */
+    box-shadow: 4px 10px 50px -1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 4px 10px 50px -1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 10px 50px -1px rgba(0, 0, 0, 0.75);
+}
+
+#de5g {
+    position: relative;
+    left: 7%;
+    width: fit-content;
+}
+
+#de5g p {
+    font-size: 1em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#z4ve {
+    position: relative;
+    width: fit-content;
+    right: -66%;
+    top: -26%;
+}
+
+#z4ve p {
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#trsid {
+    position: relative;
+    width: fit-content;
+    top: 3.44444%;
+    right: -2.09814%;
+}
+
+#trsid img {
+    width: 350px;
+    position: relative;
+    margin: 0% 0%;
+}
+
+#trsid p {
+    position: relative;
+    font-size: 1.7em;
+    margin: 0% 0%;
+    font-weight: 400;
+    text-align: center;
 }

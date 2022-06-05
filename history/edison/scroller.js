@@ -27,6 +27,6 @@ setTimeout(() => {
                 changeClass(object = document.getElementById(`event_${10-i}`), oldClass = "timeline-event", newClass = "timeline-event-enabled");
             }
             if (--i) myLoop(i); //  decrement i and call myLoop again if i > 0
-        }, 1000)
+        }, 4500)
     })(10); //  pass the number of iterations as an argument
 }, 5000);
