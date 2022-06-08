@@ -9,6 +9,8 @@ function changeClass(object, oldClass, newClass) {
     object.className = object.className.replace(regExp, newClass);
 }
 
+var slidecount = 7;
+
 setTimeout(() => {
     (function myLoop(i) {
         setTimeout(function() {
@@ -16,17 +18,17 @@ setTimeout(() => {
                 console.log(`event_${10-i}`);
                 goToID(id = `event_${10-i}`);
             }
-            if ((9 - i < 8) & (9 - i > -1)) {
-                console.log(`slide_${9-i}`)
-                goToID(`slide_${9-i}`)
+            if ((slidecount + 2 - i < slidecount + 1) & (slidecount + 2 - i > -1)) {
+                console.log(`slide_${slidecount+2-i}`)
+                goToID(`slide_${slidecount+2-i}`)
             }
-            if (i != 10) {
-                changeClass(object = document.getElementById(`event_${9-i}`), oldClass = "timeline-event-enabled", newClass = "timeline-event");
+            if (i != slidecount + 3) {
+                changeClass(object = document.getElementById(`event_${slidecount+2-i}`), oldClass = "timeline-event-enabled", newClass = "timeline-event");
             }
             if (i > 1) {
-                changeClass(object = document.getElementById(`event_${10-i}`), oldClass = "timeline-event", newClass = "timeline-event-enabled");
+                changeClass(object = document.getElementById(`event_${slidecount+3-i}`), oldClass = "timeline-event", newClass = "timeline-event-enabled");
             }
             if (--i) myLoop(i); //  decrement i and call myLoop again if i > 0
         }, 4500)
-    })(10); //  pass the number of iterations as an argument
+    })(slidecount + 3); //  pass the number of iterations as an argument
 }, 5000);
