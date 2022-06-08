@@ -9,10 +9,16 @@
     <link rel='stylesheet' type='text/css' media='screen' href='timeline.css'>
     <link rel='stylesheet' type='text/css' media='screen' href='slides.css'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script type="text/javascript" src="zoom.js"></script>
     <!-- <script type="text/javascript" src="scroller.js"></script> -->
 </head>
 
 <body>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <img class="modal-content" id="img01">
+        <div id="caption"></div>
+    </div>
     <ul class="timeline">
         <li class="timeline-event" id="br"></li>
         <li class="timeline-event" id="event_0">
@@ -160,7 +166,7 @@
                     <p>ampoule de Thomas Edison<br>fonctionnant avec un filament en carbone</p>
                 </div>
                 <div id="dsgf">
-                    <img src="slide_3_1.jpg">
+                    <img src="slide_3_1.jpg" id="dsgf_img" class="myImg">
                     <p>croqui fait par thomas edison <br>de son ampoule à filament</p>
                 </div>
                 <div id="zpfg">
@@ -175,15 +181,15 @@
                 <h1 class="title"><strong>AIDE LE PEUPLE</strong>
                 </h1>
                 <div id="rg12">
-                    <img src="slide_4_0.webp">
+                    <img src="slide_4_0.webp" id="rg12_img" class="myImg">
                     <p>Installation des tuyaux contenant les câbles d’alimention en électricité <br> des maisons et immeubles de New York <br><i>(gravure de 1882)</i>.</p>
                 </div>
                 <div id="edg5">
-                    <img src="sldie_4_1.webp">
+                    <img src="sldie_4_1.webp" id="edg5_img" class="myImg">
                     <p>Gravure représentant la centrale électrique Edison.<br>Brooklyn 1890</p>
                 </div>
                 <div id="ers6">
-                    <img src="slide_4_2.webp">
+                    <img src="slide_4_2.webp" id="ers6_img" class="myImg">
                     <p>Gravure représentant le salon Edison<br>Exposition internationale d’électricité.</p>
                 </div>
             </div>
@@ -209,38 +215,10 @@
                 </div>
                 <div id="apc4">
                     <!-- Image Zoom HTML -->
-                    <img id="myImg" src="sldie_6_1.jpeg" alt="schematic" width="500" height=auto>
-                    <!-- The Modal -->
-                    <div id="myModal" class="modal">
-                        <img class="modal-content" id="img01">
-                        <div id="caption"></div>
-                    </div>
+                    <img class="myImg" id="apc4_img" src="sldie_6_1.jpeg" alt="schematic" width="500" height=auto>
                     <p>schematique de la batterie de Thomas Edison</p>
                 </div>
-                <script>
-                    // Get the modal
-                    var modal = document.getElementById('myModal');
-                    // Get the image and insert it inside the modal - use its "alt" text as a caption
-                    var img = document.getElementById('myImg');
-                    var modalImg = document.getElementById("img01");
-                    var captionText = document.getElementById("caption");
-                    img.onclick = function() {
-                        modal.style.display = "block";
-                        modalImg.src = this.src;
-                        modalImg.alt = this.alt;
-                        captionText.innerHTML = this.alt;
-                    }
 
-                    // When the user clicks on <span> (x), close the modal
-                    modal.onclick = function() {
-                        img01.className += " out";
-                        setTimeout(function() {
-                            modal.style.display = "none";
-                            img01.className = "modal-content";
-                        }, 400);
-
-                    }
-                </script>
         </li>
         <li id="slide_7" class="slide_element">
             <div style="
