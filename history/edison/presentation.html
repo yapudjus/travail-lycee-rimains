@@ -190,10 +190,11 @@
         </li>
         <li id="slide_5" class="slide_element">
             <div style="
-                    background-image: url(GENERAL-ELECTRIC.jpg);
+                    background-color: #afafaf;
                     " class="bg_image">
                 <h1 class="title"><strong>ELECTRICITÉE GÉNÉRALE</strong>
                 </h1>
+                <img src="GENERAL-ELECTRIC.jpg" id="drfvb">
             </div>
         </li>
         <li id="slide_6" class="slide_element">
@@ -202,7 +203,44 @@
                     " class="bg_image">
                 <h1 class="title"><strong>LA BATTERIE</strong>
                 </h1>
-            </div>
+                <div id="dut6">
+                    <img src="slide_6_0.webp">
+                    <p>La batterie de Thomas Edison<br>alternance nickel/cuivre</p>
+                </div>
+                <div id="apc4">
+                    <!-- Image Zoom HTML -->
+                    <img id="myImg" src="sldie_6_1.jpeg" alt="schematic" width="500" height=auto>
+                    <!-- The Modal -->
+                    <div id="myModal" class="modal">
+                        <img class="modal-content" id="img01">
+                        <div id="caption"></div>
+                    </div>
+                    <p>schematique de la batterie de Thomas Edison</p>
+                </div>
+                <script>
+                    // Get the modal
+                    var modal = document.getElementById('myModal');
+                    // Get the image and insert it inside the modal - use its "alt" text as a caption
+                    var img = document.getElementById('myImg');
+                    var modalImg = document.getElementById("img01");
+                    var captionText = document.getElementById("caption");
+                    img.onclick = function() {
+                        modal.style.display = "block";
+                        modalImg.src = this.src;
+                        modalImg.alt = this.alt;
+                        captionText.innerHTML = this.alt;
+                    }
+
+                    // When the user clicks on <span> (x), close the modal
+                    modal.onclick = function() {
+                        img01.className += " out";
+                        setTimeout(function() {
+                            modal.style.display = "none";
+                            img01.className = "modal-content";
+                        }, 400);
+
+                    }
+                </script>
         </li>
         <li id="slide_7" class="slide_element">
             <div style="
