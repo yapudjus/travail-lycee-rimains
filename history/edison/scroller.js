@@ -29,6 +29,6 @@ setTimeout(() => {
                 changeClass(object = document.getElementById(`event_${slidecount+3-i}`), oldClass = "timeline-event", newClass = "timeline-event-enabled");
             }
             if (--i) myLoop(i); //  decrement i and call myLoop again if i > 0
-        }, 4500)
+        }, 20000)
     })(slidecount + 3); //  pass the number of iterations as an argument
 }, 5000);
