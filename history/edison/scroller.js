@@ -15,8 +15,8 @@ setTimeout(() => {
     (function myLoop(i) {
         setTimeout(function() {
             if (i != 1) {
-                console.log(`event_${10-i}`);
-                goToID(id = `event_${10-i}`);
+                console.log(`event_${slidecount+3-i}`);
+                goToID(id = `event_${slidecount+3-i}`);
             }
             if ((slidecount + 2 - i < slidecount + 1) & (slidecount + 2 - i > -1)) {
                 console.log(`slide_${slidecount+2-i}`)
