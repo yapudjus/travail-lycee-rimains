@@ -187,3 +187,63 @@ h1.title {
     position: relative;
     width: 110%
 }
+
+#rg12 {
+    position: relative;
+    width: fit-content;
+    top: 3.908%;
+    right: -2.7776%;
+}
+
+#rg12 p {
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#rg12 img {
+    position: relative;
+    width: 70%
+}
+
+#edg5 {
+    position: relative;
+    width: fit-content;
+    top: -22%;
+    right: -34%;
+}
+
+#edg5 p {
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#edg5 img {
+    position: relative;
+    width: 70%
+}
+
+#ers6 {
+    position: relative;
+    width: fit-content;
+    top: -83%;
+    right: -67%;
+}
+
+#ers6 p {
+    font-size: 1.7em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#ers6 img {
+    position: relative;
+    width: 70%
+}
