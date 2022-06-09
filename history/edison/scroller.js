@@ -9,7 +9,7 @@ function changeClass(object, oldClass, newClass) {
     object.className = object.className.replace(regExp, newClass);
 }
 
-var slidecount = 7;
+var slidecount = 9;
 
 setTimeout(() => {
     (function myLoop(i) {
