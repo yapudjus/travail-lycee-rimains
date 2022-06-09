@@ -9,7 +9,7 @@ function changeClass(object, oldClass, newClass) {
     object.className = object.className.replace(regExp, newClass);
 }
 
-var slidecount = 10;
+var slidecount = 11;
 
 setTimeout(() => {
     (function myLoop(i) {
@@ -29,6 +29,6 @@ setTimeout(() => {
                 changeClass(object = document.getElementById(`event_${slidecount+3-i}`), oldClass = "timeline-event", newClass = "timeline-event-enabled");
             }
             if (--i) myLoop(i); //  decrement i and call myLoop again if i > 0
-        }, 3000)
+        }, 1000)
     })(slidecount + 3); //  pass the number of iterations as an argument
 }, 5000);
