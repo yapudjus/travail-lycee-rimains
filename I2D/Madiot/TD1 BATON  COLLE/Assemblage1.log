@@ -1,0 +1,132 @@
+
+===============Init Logging================
+
+05/01/2023 - 10:21:48 	===== Ouverture de session =====
+05/01/2023 - 11:18:47 	Début du calcul
+05/01/2023 - 11:18:47 	Nombre de positions : 1
+05/01/2023 - 11:18:47 	Simulation inactivée
+05/01/2023 - 11:18:47 	Fin du calcul
+05/01/2023 - 11:18:50 	Début du calcul
+05/01/2023 - 11:18:50 	Nombre de positions : 1
+05/01/2023 - 11:18:50 	Simulation inactivée
+05/01/2023 - 11:18:50 	Fin du calcul
+05/01/2023 - 11:18:50 	Début du calcul
+05/01/2023 - 11:18:50 	Nombre de positions : 1
+05/01/2023 - 11:18:50 	Simulation inactivée
+05/01/2023 - 11:18:50 	Fin du calcul
+05/01/2023 - 11:18:51 	Début du calcul
+05/01/2023 - 11:18:51 	Nombre de positions : 1
+05/01/2023 - 11:18:51 	Simulation inactivée
+05/01/2023 - 11:18:51 	Fin du calcul
+05/01/2023 - 11:18:51 	Début du calcul
+05/01/2023 - 11:18:51 	Nombre de positions : 1
+05/01/2023 - 11:18:51 	Simulation inactivée
+05/01/2023 - 11:18:51 	Fin du calcul
+05/01/2023 - 11:18:52 	Début du calcul
+05/01/2023 - 11:18:52 	Nombre de positions : 1
+05/01/2023 - 11:18:52 	Simulation inactivée
+05/01/2023 - 11:18:52 	Fin du calcul
+05/01/2023 - 11:21:26 	Début du calcul
+05/01/2023 - 11:21:26 	Nombre de positions : 1
+05/01/2023 - 11:21:26 	Simulation inactivée
+05/01/2023 - 11:21:26 	Fin du calcul
+05/01/2023 - 11:21:28 	Début du calcul
+05/01/2023 - 11:21:28 	Nombre de positions : 1
+05/01/2023 - 11:21:28 	Simulation inactivée
+05/01/2023 - 11:21:28 	Fin du calcul
+05/01/2023 - 11:21:28 	Début du calcul
+05/01/2023 - 11:21:28 	Nombre de positions : 1
+05/01/2023 - 11:21:28 	Simulation inactivée
+05/01/2023 - 11:21:28 	Fin du calcul
+05/01/2023 - 11:21:29 	Début du calcul
+05/01/2023 - 11:21:29 	Nombre de positions : 1
+05/01/2023 - 11:21:29 	Simulation inactivée
+05/01/2023 - 11:21:29 	Fin du calcul
+05/01/2023 - 11:21:29 	Début du calcul
+05/01/2023 - 11:21:29 	Nombre de positions : 1
+05/01/2023 - 11:21:29 	Simulation inactivée
+05/01/2023 - 11:21:29 	Fin du calcul
+05/01/2023 - 11:21:30 	Début du calcul
+05/01/2023 - 11:21:30 	Nombre de positions : 1
+05/01/2023 - 11:21:30 	Simulation inactivée
+05/01/2023 - 11:21:30 	Fin du calcul
+05/01/2023 - 11:22:51 	Début du calcul
+05/01/2023 - 11:22:51 	Nombre de positions : 25
+05/01/2023 - 11:22:51 	Simulation inactivée
+05/01/2023 - 11:22:51 	Fin du calcul
+05/01/2023 - 11:22:52 	Début du calcul
+05/01/2023 - 11:22:52 	Nombre de positions : 25
+05/01/2023 - 11:22:52 	Simulation inactivée
+05/01/2023 - 11:22:52 	Fin du calcul
+05/01/2023 - 11:22:53 	Début du calcul
+05/01/2023 - 11:22:53 	Nombre de positions : 25
+05/01/2023 - 11:22:53 	Simulation inactivée
+05/01/2023 - 11:22:53 	Fin du calcul
+05/01/2023 - 11:29:08 	Début du calcul
+05/01/2023 - 11:29:08 	Nombre de positions : 250
+05/01/2023 - 11:29:08 	Simulation inactivée
+05/01/2023 - 11:29:09 	Fin du calcul
+05/01/2023 - 11:30:06 	Début du calcul
+05/01/2023 - 11:30:06 	Nombre de positions : 250
+05/01/2023 - 11:30:06 	Simulation inactivée
+05/01/2023 - 11:30:07 	Fin du calcul
+05/01/2023 - 11:30:13 	Début du calcul
+05/01/2023 - 11:30:13 	Nombre de positions : 250
+05/01/2023 - 11:30:13 	Simulation inactivée
+05/01/2023 - 11:30:13 	Fin du calcul
+05/01/2023 - 11:30:40 	Début du calcul
+05/01/2023 - 11:30:40 	Nombre de positions : 250
+05/01/2023 - 11:30:40 	Simulation inactivée
+05/01/2023 - 11:30:41 	Fin du calcul
+05/01/2023 - 11:32:08 	Début du calcul
+05/01/2023 - 11:32:08 	Nombre de positions : 1000
+05/01/2023 - 11:32:08 	Simulation inactivée
+05/01/2023 - 11:32:09 	Fin du calcul
+05/01/2023 - 13:15:32 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+06/01/2023 - 14:48:08 	===== Ouverture de session =====
+06/01/2023 - 14:52:46 	Début du calcul
+06/01/2023 - 14:52:46 	Nombre de positions : 1000
+06/01/2023 - 14:52:46 	Simulation inactivée
+06/01/2023 - 14:52:47 	Fin du calcul
+06/01/2023 - 15:03:57 	Début du calcul
+06/01/2023 - 15:03:57 	Nombre de positions : 1000
+06/01/2023 - 15:03:57 	Simulation inactivée
+06/01/2023 - 15:03:58 	Fin du calcul
+06/01/2023 - 15:05:25 	Début du calcul
+06/01/2023 - 15:05:25 	Nombre de positions : 1000
+06/01/2023 - 15:05:25 	Simulation inactivée
+06/01/2023 - 15:05:26 	Fin du calcul
+06/01/2023 - 15:05:47 	Début du calcul
+06/01/2023 - 15:05:47 	Nombre de positions : 1000
+06/01/2023 - 15:05:47 	Simulation inactivée
+06/01/2023 - 15:05:48 	Fin du calcul
+06/01/2023 - 15:06:15 	Début du calcul
+06/01/2023 - 15:06:15 	Nombre de positions : 1000
+06/01/2023 - 15:06:15 	Simulation inactivée
+06/01/2023 - 15:06:17 	Fin du calcul
+06/01/2023 - 15:07:06 	Début du calcul
+06/01/2023 - 15:07:06 	Nombre de positions : 1000
+06/01/2023 - 15:07:06 	Simulation inactivée
+06/01/2023 - 15:07:07 	Fin du calcul
+06/01/2023 - 15:07:37 	Début du calcul
+06/01/2023 - 15:07:37 	Nombre de positions : 10
+06/01/2023 - 15:07:37 	Simulation inactivée
+06/01/2023 - 15:07:37 	Fin du calcul
+06/01/2023 - 15:08:23 	Début du calcul
+06/01/2023 - 15:08:23 	Nombre de positions : 1000
+06/01/2023 - 15:08:23 	Simulation inactivée
+06/01/2023 - 15:08:24 	Fin du calcul
+06/01/2023 - 15:14:19 	Début du calcul
+06/01/2023 - 15:14:19 	Nombre de positions : 1000
+06/01/2023 - 15:14:19 	Simulation inactivée
+06/01/2023 - 15:14:20 	Fin du calcul
+06/01/2023 - 15:26:03 	===== Fermeture de session =====
+
+===============Finish Logging================
+

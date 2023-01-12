@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4bc136384b674237a00eee945415b940 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_4bc136384b674237a00eee945415b940" ></div>
+        
+</body>
+<script>    
+    
+            var map_4bc136384b674237a00eee945415b940 = L.map(
+                "map_4bc136384b674237a00eee945415b940",
+                {
+                    center: [48.647647158, -2.004],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 20,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_459701004fc04d60894c3e40bcee5aa9 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_4bc136384b674237a00eee945415b940);
+        
+    
+            var marker_5c6424fce4604f9492acf92888f7bbf3 = L.marker(
+                [48.647647158, -2.004],
+                {}
+            ).addTo(map_4bc136384b674237a00eee945415b940);
+        
+    
+        var popup_56c03e940ea64d658ba3339dcbf032c9 = L.popup({"maxWidth": 2650});
+
+        
+            var html_56fdefc0b626421bac93edf27cc62fdf = $(`<div id="html_56fdefc0b626421bac93edf27cc62fdf" style="width: 100.0%; height: 100.0%;"><style>         ul { list-style-type: none; margin: 15px; padding: 10px; width: fit-content; }         li a { display: block; font-family: arial; font-size: 1.2em; font-weight: bold; padding: 10px; text-decoration: none; }         li a:hover { background-color: #ddd; }         li .title { left: 50%; margin: 0; padding: 0; position: relative; }     </style>     <ul>         <li class="title">             <b>Lycée les rimains</b>         </li>         <li>             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1016.3266479248483!2d-2.0028717983855153!3d48.64763842343327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480e8163a31187c9%3A0x3beb9ba76aafe124!2sLyc%C3%A9e%20g%C3%A9n%C3%A9ral%20et%20technologique%20Les%20Rimains!5e0!3m2!1sfr!2sfr!4v1654248214795!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>         </li>     </ul></div>`)[0];
+            popup_56c03e940ea64d658ba3339dcbf032c9.setContent(html_56fdefc0b626421bac93edf27cc62fdf);
+        
+
+        marker_5c6424fce4604f9492acf92888f7bbf3.bindPopup(popup_56c03e940ea64d658ba3339dcbf032c9)
+        ;
+
+        
+    
+    
+            var marker_98bfb2d7e7854dfbba34ac555cfb912c = L.marker(
+                [45.514688, -73.566438],
+                {}
+            ).addTo(map_4bc136384b674237a00eee945415b940);
+        
+    
+        var popup_cb2a92e33201432590f0c16755e30b3e = L.popup({"maxWidth": 2650});
+
+        
+            var html_ee0c0b3b3e784d06a31419073748be90 = $(`<div id="html_ee0c0b3b3e784d06a31419073748be90" style="width: 100.0%; height: 100.0%;"><style>         ul { list-style-type: none; margin: 15px; padding: 10px; width: fit-content; }         li a { display: block; font-family: arial; font-size: 1.2em; font-weight: bold; padding: 10px; text-decoration: none; }         li a:hover { background-color: #ddd; }         li .title { left: 50%; margin: 0; padding: 0; position: relative; }     </style>     <ul>         <li class="title">             <b>CEGEP du vieux montréal</b>         </li>         <li>             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d698.9480906272897!2d-73.5675086!3d45.5142583!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a4b508adcab%3A0x9439f187f763ea27!2sC%C3%A9gep%20du%20Vieux%20Montr%C3%A9al!5e0!3m2!1sfr!2sfr!4v1654247064830!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>         </li>     </ul></div>`)[0];
+            popup_cb2a92e33201432590f0c16755e30b3e.setContent(html_ee0c0b3b3e784d06a31419073748be90);
+        
+
+        marker_98bfb2d7e7854dfbba34ac555cfb912c.bindPopup(popup_cb2a92e33201432590f0c16755e30b3e)
+        ;
+
+        
+    
+</script>
