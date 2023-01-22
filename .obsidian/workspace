@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "a97326b36868399d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1bf78ad9dd340c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SVT/exposee/SIDA/SIDA.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64d31f5cf7f9691c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7b1911faec9bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6295c55f45a6f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b645091e674b4934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb4580f9cbddd937",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417
+  },
+  "right": {
+    "id": "90bab94380da7ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e219fab6dafcef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ab212527572064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SVT/exposee/SIDA/SIDA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41d3a77ae6443439",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a373b29e3f31efb8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1bf78ad9dd340c3",
+  "lastOpenFiles": [
+    "SVT/exposee/SIDA/SIDA.md",
+    "SVT/chapitres/biodiversitée/activitées/1/activitée 1.md",
+    "SVT/document cloud/SVT/5 - La biodiversité et son évolution/Activité 1/Activité 1 - Les échelles de la biodiversité.pdf",
+    "SVT/document cloud/SVT/5 - La biodiversité et son évolution/Activité 1/Activité 1 - Les échelles de la biodiversité - CORRECTION.pdf",
+    "SVT/chapitres/biodiversitée/activitée 1.md",
+    "SVT/exposee/notes.md",
+    "SVT/exposee/SIDA/SIDA.pdf",
+    "SVT/SIDA.md",
+    "SNT/14022022.md",
+    "Day Planners/Day Planner-20220114.md"
+  ]
+}

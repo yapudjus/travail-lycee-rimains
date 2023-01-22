@@ -1,0 +1,495 @@
+ul.slides_container {
+    list-style: none;
+    position: fixed;
+    margin-top: 0%;
+    padding-top: 0%;
+    margin: 0% 0%;
+    padding-left: 0%;
+    width: 70%;
+    min-height: 1080px;
+    max-height: 70%;
+    overflow: scroll;
+    top: 13.7363%;
+    left: 33px;
+}
+
+li.slide_element {
+    padding: 0% 0%;
+    height: 1080px;
+    width: auto;
+}
+
+div.bg_image div img {
+    box-shadow: 3px 5px 101px 8px rgba(0, 0, 0, 0.67);
+    -webkit-box-shadow: 3px 5px 101px 8px rgba(0, 0, 0, 0.67);
+    -moz-box-shadow: 3px 5px 101px 8px rgba(0, 0, 0, 0.67);
+}
+
+.bg_image {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1080px;
+}
+
+h1.title {
+    color: #2c2c2c;
+    background: rgba(73, 73, 73, 0.5);
+    width: fit-content;
+    width: -moz-fix-content;
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 4em;
+    margin-top: 5%;
+    padding-left: 1em;
+    padding-right: 1em;
+    /* from https://cssgenerator.org/border-radius-css-generator.html  */
+    border-radius: 0px 0px 16px 16px;
+    -webkit-border-radius: 0px 0px 16px 16px;
+    -moz-border-radius: 0px 0px 16px 16px;
+    /*  from https://cssgenerator.org/box-shadow-css-generator.html */
+    box-shadow: 4px 10px 50px -1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 4px 10px 50px -1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 10px 50px -1px rgba(0, 0, 0, 0.75);
+}
+
+#de5g {
+    position: relative;
+    left: 7%;
+    width: fit-content;
+	width: -moz-fit-content;
+}
+
+#de5g p {
+    font-size: 1em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#z4ve {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    right: -66%;
+    top: -26%;
+}
+
+#z4ve p {
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#trsid {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+width: -moz-fit-content;
+    top: 3.44444%;
+    right: -2.09814%;
+}
+
+#trsid img {
+    width: 350px;
+    position: relative;
+    margin: 0% 0%;
+}
+
+#trsid p {
+    position: relative;
+    font-size: 1.7em;
+    margin: 0% 0%;
+    font-weight: 400;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+#zfdg {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+width: -moz-fit-content;
+    right: -32%;
+    top: -1%;
+}
+
+#zfdg p {
+    width: 150%;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#zfdg img {
+    width: 150%;
+    position: relative;
+    margin: 0% 0%;
+}
+
+#zfdf {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    width: fit-content;
+    right: -63%;
+    top: -75%;
+}
+
+#zfdf p {
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#sdgb {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    right: -9.57421%;
+    top: 31.1296%;
+}
+
+#sdgb img {
+    position: relative;
+}
+
+#sdgb p {
+    font-size: 1.1em;
+    font-weight: 400;
+    text-align: center;
+}
+
+#dsgf {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    right: -43.3688%;
+    top: -31.481%;
+}
+
+#dsgf p {
+    font-size: 1.1em;
+    font-weight: 400;
+    text-align: center;
+    width: 120%;
+    margin-top: 0%;
+}
+
+#dsgf img {
+    position: relative;
+    width: 120%
+}
+
+#zpfg {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    top: -100.908%;
+    right: -70.7776%;
+}
+
+#zpfg p {
+    font-size: 1.1em;
+    font-weight: 400;
+    text-align: center;
+    width: 110%;
+    margin-top: 0%;
+}
+
+#zpfg img {
+    position: relative;
+    width: 110%
+}
+
+#rg12 {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    top: 3.908%;
+    right: -2.7776%;
+}
+
+#rg12 p {
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#rg12 img {
+    position: relative;
+    width: 70%
+}
+
+#edg5 {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    top: -22%;
+    right: -34%;
+}
+
+#edg5 p {
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#edg5 img {
+    position: relative;
+    width: 70%
+}
+
+#ers6 {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    top: -83%;
+    right: -67%;
+}
+
+#ers6 p {
+    font-size: 1.7em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#ers6 img {
+    position: relative;
+    width: 70%
+}
+
+#dut6 {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    top: -0%;
+    right: -5%;
+}
+
+#dut6 p {
+    font-size: 2.3em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#dut6 img {
+    position: relative;
+    width: 70%
+}
+
+#apc4 {
+    position: relative;
+    width: fit-content;
+	width: -moz-fit-content;
+    top: -85%;
+    right: -60%;
+}
+
+#apc4 p {
+    font-size: 2.3em;
+    font-weight: 400;
+    text-align: center;
+    width: 70%;
+    margin-top: 0%;
+}
+
+#apc4 img {
+    position: relative;
+    width: 70%
+}
+
+.out {
+    animation-name: zoom-out;
+    animation-duration: 0.6s;
+}
+
+
+/* Add Animation */
+
+.modal-content,
+#caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom-out {
+    from {
+        transform: scale(1)
+    }
+    to {
+        transform: scale(0)
+    }
+}
+
+@keyframes zoom-out {
+    from {
+        transform: scale(1)
+    }
+    to {
+        transform: scale(0)
+    }
+}
+
+@-webkit-keyframes zoom {
+    from {
+        -webkit-transform: scale(1)
+    }
+    to {
+        -webkit-transform: scale(2)
+    }
+}
+
+@keyframes zoom {
+    from {
+        transform: scale(0.4)
+    }
+    to {
+        transform: scale(1)
+    }
+}
+
+
+/* Caption of Modal Image */
+
+#caption {
+    margin: auto;
+    font-size: 2.5em;
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 0 0;
+    height: 150px;
+}
+
+
+/* Modal Content (image) */
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 75%;
+    /* max-width: 75%; */
+}
+
+
+/* The Modal (background) */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 99;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.9);
+    /* Black w/ opacity */
+}
+
+.myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#drfvb {
+    position: relative;
+    max-width: 70%;
+    width: auto;
+    height: 50%;
+    top: 11%;
+    right: -30%;
+}
+
+.hovertext {
+    position: relative;
+    border-bottom: 1px dotted black;
+}
+
+.hovertext:before {
+    content: attr(data-hover);
+    visibility: hidden;
+    opacity: 0;
+    width: auto;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 5px;
+    transition: opacity 1s ease-in-out;
+    position: absolute;
+    z-index: 1;
+    left: 0; 
+    top: 110%;
+}
+
+.hovertext:hover:before {
+    opacity: 1;
+    visibility: visible;
+}
+
+#r8h1 {
+    position: relative;
+    width: fit-content;
+    height: 50%;
+    top: 11%;
+    right: -30%;
+}
+
+#r8h1 p {
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    width: 25%;
+    margin-top: 0%;
+}
+
+#r8h1 img {
+    position: inherit;
+    width: 25%
+}
+
+#d85b {
+    position: relative;
+    width: 25%;
+    top: 8%;
+    right: -40%;
+}
+
+#d85b p {
+    font-size: 1.2em;
+    font-weight: 400;
+    position: relative;
+    width: 65%;
+}
+
+#d85b img {
+    position: relative;
+    width: 65%;
+}
