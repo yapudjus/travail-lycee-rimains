@@ -1,1 +1,279 @@
-<mxfile host="Electron" modified="2023-01-25T20:26:36.154Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.7.4 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36" etag="EfY8KKe49lfKHEkZ-Mk1" version="20.7.4" type="device"><diagram id="kJoW1zJYDhiS2NYjJ2JO" name="Page-1">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</diagram></mxfile>
+<mxfile host="Electron" modified="2023-01-25T22:24:35.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.10 Chrome/106.0.5249.199 Electron/21.3.5 Safari/537.36" etag="DBqb2z4i7ayE8Nuxapxw" compressed="false" version="20.8.10" type="device">
+  <diagram id="kJoW1zJYDhiS2NYjJ2JO" name="Page-1">
+    <mxGraphModel dx="1337" dy="813" grid="1" gridSize="1" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-123" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;req&lt;/b&gt;   [Requirement] électricitée&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;xSize=90;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;labelX=176.52;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
+          <mxGeometry width="1169.289" height="1653.54" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-126" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;edgeStyle=none;endArrow=open;dashed=1;verticalAlign=top;labelBackgroundColor=none;endSize=12;html=1;rounded=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="73.57142857142867" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-69" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;autonomie electrique&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être autonome en électricité&quot;&lt;br&gt;Id=&quot;0&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="21" y="671" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-70" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-69" target="wVdk8G1GmJ-mPY448WNJ-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1968.64" y="575.08" as="sourcePoint" />
+            <mxPoint x="2099.89" y="345.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-71" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;fonctional requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;stockage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être en capacité de stoquer son énergie&quot;&lt;br&gt;Id=&quot;0.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="329" y="11" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-72" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;generation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être en capacitée de générer son énergie&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Id=&quot;0.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="329" y="161" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-73" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-69" target="wVdk8G1GmJ-mPY448WNJ-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1978.64" y="545" as="sourcePoint" />
+            <mxPoint x="2068.64" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-74" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;sécuritée&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit garantir la sécurité de l&#39;utilisateur tout en respectant les normes en vigueures&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Id=&quot;0.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="331" y="671" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-75" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-69" target="wVdk8G1GmJ-mPY448WNJ-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1968.64" y="790" as="sourcePoint" />
+            <mxPoint x="2068.64" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-76" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;usabilitée&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvoir être opéré et utilisé de manière efficace et simple&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Id=&quot;0.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="329" y="971" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-77" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-69" target="wVdk8G1GmJ-mPY448WNJ-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1968.64" y="945" as="sourcePoint" />
+            <mxPoint x="2068.64" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-78" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;réparabilitée&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvoir être maintenu et si necessaire réparé ou remplacé par l&#39;utilisateur à moindre cout et de manière simple&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;Id=&quot;0.5&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="329" y="1411" width="200" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-79" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-69" target="wVdk8G1GmJ-mPY448WNJ-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1958.64" y="695" as="sourcePoint" />
+            <mxPoint x="2068.64" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-80" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-71" target="wVdk8G1GmJ-mPY448WNJ-81" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="1978.64" y="575.08" as="sourcePoint" />
+            <mxPoint x="2438.64" y="45.08" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-81" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;fonctional requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;autonomie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit etre capable de subvenir aux besoins vitaux d&#39;une personne pendant au moins 12 heures sans recharge&quot;&lt;br&gt;Id=&quot;0.1.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="11" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-82" value="estimé 15KWh&lt;br&gt;en LiFePO4 pèse 150Kg&amp;nbsp;" style="shape=rect;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="11" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-83" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-81" target="wVdk8G1GmJ-mPY448WNJ-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2508.64" y="455.08" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-84" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;sustainability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;renouvelabilitée&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être entièrement renouvelable dans son fonctionnement&quot;&lt;br&gt;Id=&quot;0.2.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="281" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-85" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-72" target="wVdk8G1GmJ-mPY448WNJ-84" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2268.64" y="85" as="sourcePoint" />
+            <mxPoint x="2368.64" y="275" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-86" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;fonctional requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;generation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvoir générer assez d&#39;energie&quot;&lt;br&gt;Id=&quot;0.2.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="161" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-87" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-72" target="wVdk8G1GmJ-mPY448WNJ-86" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2278.64" y="95" as="sourcePoint" />
+            <mxPoint x="2428.64" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-88" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;fonctional requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;recharge&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvour generer assez pour recharger les batteries&quot;&lt;br&gt;Id=&quot;0.2.1.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="161" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-89" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-86" target="wVdk8G1GmJ-mPY448WNJ-88" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2618.64" y="385" as="sourcePoint" />
+            <mxPoint x="2718.64" y="325" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-90" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;fonctional requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;usage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvour generer assez pour alimenter les appareils connéctés&quot;&lt;br&gt;Id=&quot;0.2.1.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="281" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-91" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-86" target="wVdk8G1GmJ-mPY448WNJ-90" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2588.64" y="535" as="sourcePoint" />
+            <mxPoint x="2728.64" y="445" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-92" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;continuitée&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvoir génerer de l&#39;energie de manière continue et stable dans le temps&quot;&lt;br&gt;Id=&quot;0.2.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="401" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-93" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-72" target="wVdk8G1GmJ-mPY448WNJ-92" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2268.64" y="275" as="sourcePoint" />
+            <mxPoint x="2418.64" y="395" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-94" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;meteo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvour generer de l&#39;energie malgré la meteo&quot;&lt;br&gt;Id=&quot;0.2.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="401" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-95" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-92" target="wVdk8G1GmJ-mPY448WNJ-94" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2608.64" y="645" as="sourcePoint" />
+            <mxPoint x="2718.64" y="585" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-96" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;temps&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit pouvour generer de l&#39;energie indépendament du moment de la journée&quot;&lt;br&gt;Id=&quot;0.2.3.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="521" width="200" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-97" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-92" target="wVdk8G1GmJ-mPY448WNJ-96" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2608.64" y="630" as="sourcePoint" />
+            <mxPoint x="2718.64" y="715" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-98" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;mise à la terre&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être relié à la terre pour assurer la sécuritée de l&#39;utilisateur&quot;&lt;br&gt;Id=&quot;0.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="810" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-99" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-74" target="wVdk8G1GmJ-mPY448WNJ-98" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2288.64" y="935" as="sourcePoint" />
+            <mxPoint x="2398.64" y="1000" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-100" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;tableau electrique&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être equipé d&#39;un tableau electrique&quot;&lt;br&gt;Id=&quot;0.3.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="671" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-101" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-74" target="wVdk8G1GmJ-mPY448WNJ-100" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2278.64" y="1070" as="sourcePoint" />
+            <mxPoint x="2398.64" y="1140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-102" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;protection differentielle&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être equipé de differnetiels pour proteger l&#39;utilisateur contre les fuites de courant&quot;&lt;br&gt;Id=&quot;0.3.2.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="671" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-103" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-100" target="wVdk8G1GmJ-mPY448WNJ-102" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2628.64" y="930" as="sourcePoint" />
+            <mxPoint x="2748.64" y="1140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-104" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;protection surintensitée&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être equipé de disjoncteurs adequat pour eviter les risques incendie et proteger les appareils connectés au système&quot;&lt;br&gt;Id=&quot;0.3.2.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="810" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-105" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-100" target="wVdk8G1GmJ-mPY448WNJ-104" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2608.64" y="1209" as="sourcePoint" />
+            <mxPoint x="2748.64" y="1279" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-106" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;affichage d&#39;informations&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être en capacitée d&#39;informer l&#39;utilisateur sur son etat d&#39;utilisation, de charge, d&#39;usure, et de production&quot;&lt;br&gt;Id=&quot;0.4.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="971" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-107" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-76" target="wVdk8G1GmJ-mPY448WNJ-106" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2348.64" y="1580" as="sourcePoint" />
+            <mxPoint x="2468.64" y="1610" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-108" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;ecran d&#39;information&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être equipé d&#39;un ecran ou autre afficheur pour simplifier la lecture des informations&quot;&lt;br&gt;Id=&quot;0.4.1.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="971" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-109" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-106" target="wVdk8G1GmJ-mPY448WNJ-108" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2628.64" y="1440" as="sourcePoint" />
+            <mxPoint x="2748.64" y="1470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-110" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;capacitée de recupération&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être en capacitée de desactiver et basculer sur une cellule ou un generateur de secour pour maintenir le système fonctionnel sans interraction de l&#39;utilisateur&quot;&lt;br&gt;Id=&quot;0.4.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="1111" width="200" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-111" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-76" target="wVdk8G1GmJ-mPY448WNJ-110" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2278.64" y="1580" as="sourcePoint" />
+            <mxPoint x="2468.64" y="1750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-112" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;usability requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;contrôle des systèmes centralisé&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être equipé d&#39;un système de contrôle centralisé des equipements à bord (eclairage, chauffage, etc)&quot;&lt;br&gt;Id=&quot;0.4.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="1271" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-113" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-76" target="wVdk8G1GmJ-mPY448WNJ-112" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2278.64" y="1585" as="sourcePoint" />
+            <mxPoint x="2468.64" y="1895" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-114" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;ecran interactif&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être equipé d&#39;un ecran ou autre système interactif permettant la gestion des systèmes embarqués&quot;&lt;br&gt;Id=&quot;0.4.3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="949" y="1271" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-115" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-112" target="wVdk8G1GmJ-mPY448WNJ-114" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2628.64" y="1750" as="sourcePoint" />
+            <mxPoint x="2768.64" y="1780" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-116" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;moindre cout&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit être en réparable ou remplacable à un cout moindre de la part de l&#39;utilisateur&quot;&lt;br&gt;Id=&quot;0.5.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="1411" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-117" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-78" target="wVdk8G1GmJ-mPY448WNJ-116" edge="1">
+          <mxGeometry x="0.0769" y="15" relative="1" as="geometry">
+            <mxPoint x="2298.64" y="1925" as="sourcePoint" />
+            <mxPoint x="2468.64" y="2080" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-118" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;physical requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;occupation d&#39;espace&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit utiliser tout l&#39;espace exploitable pour la generation la plus elevée&quot;&lt;br&gt;Id=&quot;0.2.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="521" width="200" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-119" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-72" target="wVdk8G1GmJ-mPY448WNJ-118" edge="1">
+          <mxGeometry x="0.0513" y="17" relative="1" as="geometry">
+            <mxPoint x="2278.64" y="385" as="sourcePoint" />
+            <mxPoint x="2418.64" y="515" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-120" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;simplicitée de rachat&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;le système doit utiliser des composnats modulaires et simple à retrouver dans le commerce&quot;&lt;br&gt;Id=&quot;0.5.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="wVdk8G1GmJ-mPY448WNJ-123" vertex="1">
+          <mxGeometry x="639" y="1531" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wVdk8G1GmJ-mPY448WNJ-121" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="wVdk8G1GmJ-mPY448WNJ-123" source="wVdk8G1GmJ-mPY448WNJ-78" target="wVdk8G1GmJ-mPY448WNJ-120" edge="1">
+          <mxGeometry x="0.0769" y="15" relative="1" as="geometry">
+            <mxPoint x="2288.64" y="1920" as="sourcePoint" />
+            <mxPoint x="2478.64" y="2090" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pom8y43b_FZBgMrg_Oe9-28" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="73.07199999999989" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
