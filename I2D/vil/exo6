@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T14:04:50.382Z" agent="5.0 (Windows)" etag="L4ROGwpLp1QauJB-x_QJ" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T14:20:22.377Z" agent="5.0 (Windows)" etag="GotRteByayqnv-C0Iegy" version="20.8.16" type="github">
   <diagram name="Page-1" id="0cFSgzht3i-w5dLUqWbW">
     <mxGraphModel dx="398" dy="213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,13 @@
         <mxCell id="mWr6zjPp9bmuKQ2L_1nf-4" value="temperature &amp;gt;=17" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mWr6zjPp9bmuKQ2L_1nf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mWr6zjPp9bmuKQ2L_1nf-6" target="mWr6zjPp9bmuKQ2L_1nf-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mWr6zjPp9bmuKQ2L_1nf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=11;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="mWr6zjPp9bmuKQ2L_1nf-6" target="mWr6zjPp9bmuKQ2L_1nf-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="260" />
+              <mxPoint x="630" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mWr6zjPp9bmuKQ2L_1nf-6" value="alimenter le chauffage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
