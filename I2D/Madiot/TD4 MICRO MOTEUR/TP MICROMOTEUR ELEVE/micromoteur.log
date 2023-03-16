@@ -1,0 +1,233 @@
+
+===============Init Logging================
+
+03/12/2012 - 09:23:02 	===== Ouverture de session =====
+03/12/2012 - 09:23:08 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+03/12/2012 - 09:29:18 	===== Ouverture de session =====
+03/12/2012 - 09:29:21 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+28/10/2013 - 12:11:42 	===== Ouverture de session =====
+28/10/2013 - 12:30:05 	Début du calcul
+28/10/2013 - 12:30:05 	Nombre de positions : 100
+28/10/2013 - 12:30:05 	Simulation inactivée
+28/10/2013 - 12:30:05 	Lecture des conditions initiales
+28/10/2013 - 12:30:05 	Fin du calcul
+28/10/2013 - 12:34:25 	Début du calcul
+28/10/2013 - 12:34:25 	Nombre de positions : 100
+28/10/2013 - 12:34:25 	Simulation inactivée
+28/10/2013 - 12:34:25 	Lecture des conditions initiales
+28/10/2013 - 12:34:26 	Fin du calcul
+28/10/2013 - 12:34:55 	Début du calcul
+28/10/2013 - 12:34:55 	Nombre de positions : 10
+28/10/2013 - 12:34:55 	Simulation inactivée
+28/10/2013 - 12:34:55 	Lecture des conditions initiales
+28/10/2013 - 12:34:55 	Fin du calcul
+28/10/2013 - 12:44:41 	Début du calcul
+28/10/2013 - 12:44:41 	Nombre de positions : 10
+28/10/2013 - 12:44:41 	Simulation inactivée
+28/10/2013 - 12:44:41 	Lecture des conditions initiales
+28/10/2013 - 12:44:41 	Fin du calcul
+28/10/2013 - 12:46:53 	Début du calcul
+28/10/2013 - 12:46:53 	Nombre de positions : 10
+28/10/2013 - 12:46:53 	Simulation inactivée
+28/10/2013 - 12:46:53 	Lecture des conditions initiales
+28/10/2013 - 12:46:53 	Fin du calcul
+28/10/2013 - 12:50:30 	Début du calcul
+28/10/2013 - 12:50:30 	Nombre de positions : 10
+28/10/2013 - 12:50:30 	Simulation inactivée
+28/10/2013 - 12:50:30 	Lecture des conditions initiales
+28/10/2013 - 12:50:30 	Fin du calcul
+28/10/2013 - 12:50:50 	Début du calcul
+28/10/2013 - 12:50:50 	Nombre de positions : 10
+28/10/2013 - 12:50:50 	Simulation inactivée
+28/10/2013 - 12:50:50 	Lecture des conditions initiales
+28/10/2013 - 12:50:50 	Fin du calcul
+28/10/2013 - 12:51:53 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+17/12/2013 - 08:52:01 	===== Ouverture de session =====
+17/12/2013 - 09:02:57 	Début du calcul
+17/12/2013 - 09:02:57 	Nombre de positions : 100
+17/12/2013 - 09:02:57 	Simulation inactivée
+17/12/2013 - 09:02:57 	Lecture des conditions initiales
+17/12/2013 - 09:03:00 	Analyse du système incorrecte
+17/12/2013 - 09:03:00 	Abandon du calcul
+17/12/2013 - 09:03:54 	Début du calcul
+17/12/2013 - 09:03:54 	Nombre de positions : 100
+17/12/2013 - 09:03:54 	Simulation inactivée
+17/12/2013 - 09:03:54 	Lecture des conditions initiales
+17/12/2013 - 09:04:01 	Analyse du système incorrecte
+17/12/2013 - 09:04:01 	Abandon du calcul
+17/12/2013 - 09:04:34 	Début du calcul
+17/12/2013 - 09:04:34 	Nombre de positions : 100
+17/12/2013 - 09:04:34 	Simulation inactivée
+17/12/2013 - 09:04:34 	Lecture des conditions initiales
+17/12/2013 - 09:04:34 	Fin du calcul
+17/12/2013 - 09:10:11 	Début du calcul
+17/12/2013 - 09:10:11 	Nombre de positions : 100
+17/12/2013 - 09:10:11 	Simulation inactivée
+17/12/2013 - 09:10:11 	Lecture des conditions initiales
+17/12/2013 - 09:10:11 	Fin du calcul
+17/12/2013 - 09:23:46 	Début du calcul
+17/12/2013 - 09:23:46 	Nombre de positions : 100
+17/12/2013 - 09:23:46 	Simulation inactivée
+17/12/2013 - 09:23:46 	Lecture des conditions initiales
+17/12/2013 - 09:23:48 	Analyse du système incorrecte
+17/12/2013 - 09:23:48 	Abandon du calcul
+17/12/2013 - 09:24:26 	Début du calcul
+17/12/2013 - 09:24:26 	Nombre de positions : 100
+17/12/2013 - 09:24:26 	Simulation inactivée
+17/12/2013 - 09:24:26 	Lecture des conditions initiales
+17/12/2013 - 09:24:29 	Analyse du système incorrecte
+17/12/2013 - 09:24:29 	Abandon du calcul
+17/12/2013 - 09:25:06 	Début du calcul
+17/12/2013 - 09:25:06 	Nombre de positions : 100
+17/12/2013 - 09:25:06 	Simulation inactivée
+17/12/2013 - 09:25:06 	Lecture des conditions initiales
+17/12/2013 - 09:25:10 	Analyse du système incorrecte
+17/12/2013 - 09:25:10 	Abandon du calcul
+17/12/2013 - 09:25:21 	Début du calcul
+17/12/2013 - 09:25:21 	Nombre de positions : 100
+17/12/2013 - 09:25:21 	Simulation inactivée
+17/12/2013 - 09:25:21 	Lecture des conditions initiales
+17/12/2013 - 09:25:22 	Analyse du système incorrecte
+17/12/2013 - 09:25:22 	Abandon du calcul
+17/12/2013 - 09:25:54 	Début du calcul
+17/12/2013 - 09:25:54 	Nombre de positions : 100
+17/12/2013 - 09:25:54 	Simulation inactivée
+17/12/2013 - 09:25:54 	Lecture des conditions initiales
+17/12/2013 - 09:26:03 	Analyse du système incorrecte
+17/12/2013 - 09:26:03 	Abandon du calcul
+17/12/2013 - 09:28:00 	Début du calcul
+17/12/2013 - 09:28:00 	Nombre de positions : 100
+17/12/2013 - 09:28:00 	Simulation inactivée
+17/12/2013 - 09:28:00 	Lecture des conditions initiales
+17/12/2013 - 09:28:01 	Analyse du système incorrecte
+17/12/2013 - 09:28:01 	Abandon du calcul
+17/12/2013 - 09:30:30 	Début du calcul
+17/12/2013 - 09:30:30 	Nombre de positions : 100
+17/12/2013 - 09:30:30 	Simulation inactivée
+17/12/2013 - 09:30:30 	Lecture des conditions initiales
+17/12/2013 - 09:30:36 	Analyse du système incorrecte
+17/12/2013 - 09:30:36 	Abandon du calcul
+17/12/2013 - 09:33:04 	Début du calcul
+17/12/2013 - 09:33:04 	Nombre de positions : 100
+17/12/2013 - 09:33:04 	Simulation inactivée
+17/12/2013 - 09:33:04 	Lecture des conditions initiales
+17/12/2013 - 09:33:15 	Analyse du système incorrecte
+17/12/2013 - 09:33:15 	Abandon du calcul
+17/12/2013 - 09:34:16 	Début du calcul
+17/12/2013 - 09:34:16 	Nombre de positions : 100
+17/12/2013 - 09:34:16 	Simulation inactivée
+17/12/2013 - 09:34:16 	Lecture des conditions initiales
+17/12/2013 - 09:34:18 	Analyse du système incorrecte
+17/12/2013 - 09:34:18 	Abandon du calcul
+17/12/2013 - 09:38:42 	Début du calcul
+17/12/2013 - 09:38:42 	Nombre de positions : 100
+17/12/2013 - 09:38:42 	Simulation inactivée
+17/12/2013 - 09:38:42 	Lecture des conditions initiales
+17/12/2013 - 09:38:44 	Analyse du système incorrecte
+17/12/2013 - 09:38:44 	Abandon du calcul
+17/12/2013 - 09:44:43 	Début du calcul
+17/12/2013 - 09:44:43 	Nombre de positions : 100
+17/12/2013 - 09:44:43 	Simulation inactivée
+17/12/2013 - 09:44:43 	Lecture des conditions initiales
+17/12/2013 - 09:44:50 	Analyse du système incorrecte
+17/12/2013 - 09:44:50 	Abandon du calcul
+17/12/2013 - 09:45:51 	Début du calcul
+17/12/2013 - 09:45:51 	Nombre de positions : 100
+17/12/2013 - 09:45:51 	Simulation inactivée
+17/12/2013 - 09:45:51 	Lecture des conditions initiales
+17/12/2013 - 09:45:53 	Analyse du système incorrecte
+17/12/2013 - 09:45:53 	Abandon du calcul
+17/12/2013 - 09:46:11 	Début du calcul
+17/12/2013 - 09:46:11 	Nombre de positions : 100
+17/12/2013 - 09:46:11 	Simulation inactivée
+17/12/2013 - 09:46:11 	Lecture des conditions initiales
+17/12/2013 - 09:46:12 	Analyse du système incorrecte
+17/12/2013 - 09:46:12 	Abandon du calcul
+17/12/2013 - 09:49:49 	Début du calcul
+17/12/2013 - 09:49:49 	Nombre de positions : 100
+17/12/2013 - 09:49:49 	Simulation inactivée
+17/12/2013 - 09:49:49 	Lecture des conditions initiales
+17/12/2013 - 09:49:54 	Analyse du système incorrecte
+17/12/2013 - 09:49:54 	Abandon du calcul
+17/12/2013 - 09:50:58 	Début du calcul
+17/12/2013 - 09:50:58 	Nombre de positions : 100
+17/12/2013 - 09:50:58 	Simulation inactivée
+17/12/2013 - 09:50:58 	Lecture des conditions initiales
+17/12/2013 - 09:50:58 	Fin du calcul
+17/12/2013 - 09:52:14 	Début du calcul
+17/12/2013 - 09:52:14 	Nombre de positions : 100
+17/12/2013 - 09:52:14 	Simulation inactivée
+17/12/2013 - 09:52:14 	Lecture des conditions initiales
+17/12/2013 - 09:52:14 	Fin du calcul
+17/12/2013 - 09:52:41 	Début du calcul
+17/12/2013 - 09:52:41 	Nombre de positions : 100
+17/12/2013 - 09:52:41 	Simulation inactivée
+17/12/2013 - 09:52:41 	Lecture des conditions initiales
+17/12/2013 - 09:52:41 	Fin du calcul
+17/12/2013 - 09:56:41 	Début du calcul
+17/12/2013 - 09:56:41 	Nombre de positions : 100
+17/12/2013 - 09:56:41 	Simulation inactivée
+17/12/2013 - 09:56:41 	Lecture des conditions initiales
+17/12/2013 - 09:56:41 	Fin du calcul
+17/12/2013 - 10:07:17 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+17/12/2013 - 10:07:54 	===== Ouverture de session =====
+17/12/2013 - 10:08:48 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+17/12/2013 - 11:13:25 	===== Ouverture de session =====
+17/12/2013 - 11:18:18 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+25/11/2014 - 18:09:15 	===== Ouverture de session =====
+25/11/2014 - 18:09:28 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+16/01/2023 - 13:31:33 	===== Ouverture de session =====
+16/01/2023 - 13:32:40 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+04/02/2023 - 10:43:36 	===== Ouverture de session =====
+04/02/2023 - 10:43:53 	===== Fermeture de session =====
+
+===============Finish Logging================
+
